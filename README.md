@@ -10,5 +10,4 @@ Change `:smiley:` to whatever you desire.
 Download either the script (AHK) or the executable (found in releases) and double click to run.  Press F3 (configurable, [line 10] to toggle.
 
 ### Dependencies
-Requires AutoHotkey and a brain  
-None, if you run the executable file (found in releases)
+Requires AutoHotkey and a brain
